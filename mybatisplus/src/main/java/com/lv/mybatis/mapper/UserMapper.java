@@ -29,5 +29,6 @@ public interface UserMapper extends BaseMapper<User> {
     public User queryUserByName(String userName);
 
 
+    // 获取所有User，并分页
     IPage<User> selectPage(Page<User> page);
 }
