@@ -7,11 +7,14 @@
 
 1. 登录界面
 
-![image-20211120231215799](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20211120231215799.png)
+![登录界面](https://user-images.githubusercontent.com/83157962/142746916-d85c27b9-8a7d-49e6-b807-5f3baee87439.png)
+
+
 
 2. 后台管理界面
 
-   ![image-20211120231702907](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20211120231702907.png)
+![后台管理界面](https://user-images.githubusercontent.com/83157962/142746923-5232b700-16b4-40d2-a36f-bb94a050c2a5.png)
+
 
 3. 主要实现的功能
 
