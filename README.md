@@ -7,11 +7,13 @@
 
 1. 登录界面
 
-![image](https://user-images.githubusercontent.com/83157962/142746867-d493afb3-4bac-4bef-8aac-055db82daaee.png)
+![登录界面](https://user-images.githubusercontent.com/83157962/142746916-d85c27b9-8a7d-49e6-b807-5f3baee87439.png)
+
 
 
 2. 后台管理界面
 
+![后台管理界面](https://user-images.githubusercontent.com/83157962/142746923-5232b700-16b4-40d2-a36f-bb94a050c2a5.png)
 
 
 3. 主要实现的功能
